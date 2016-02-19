@@ -1,0 +1,1106 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"boo",
+				"book_by_city"
+			],
+			[
+				"qu",
+				"quote	(index.html)"
+			],
+			[
+				"rende",
+				"render_to_response"
+			],
+			[
+				"low",
+				"lowercaseQuery"
+			],
+			[
+				"pro",
+				"promise"
+			],
+			[
+				"que",
+				"querySearch"
+			],
+			[
+				"city",
+				"city_name"
+			],
+			[
+				"fin",
+				"find_by_prefix"
+			],
+			[
+				"met",
+				"methods	(app.js)"
+			],
+			[
+				"conte",
+				"content	(index.html)"
+			],
+			[
+				"get",
+				"getHttpResponse"
+			],
+			[
+				"lin",
+				"linked_ptr"
+			],
+			[
+				"stat",
+				"state"
+			],
+			[
+				"sear",
+				"searchText	(index1.html)"
+			],
+			[
+				"tod",
+				"todoText"
+			],
+			[
+				"add",
+				"addComplete"
+			],
+			[
+				"com",
+				"completes"
+			],
+			[
+				"loo",
+				"loop_end"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"del",
+				"delete	(Table.java)"
+			],
+			[
+				"By",
+				"BYTES"
+			],
+			[
+				"inde",
+				"indexCount"
+			],
+			[
+				"RE",
+				"COUNT_OF_RECORDS"
+			],
+			[
+				"read",
+				"readInteger"
+			],
+			[
+				"put",
+				"putAll"
+			],
+			[
+				"Ta",
+				"TableLine	(Main.java)"
+			],
+			[
+				"Tab",
+				"TableLine	(Table.java)"
+			],
+			[
+				"isD",
+				"isDeleted	(TableLine.java)"
+			],
+			[
+				"res",
+				"result	(JoinIterator.java)"
+			],
+			[
+				"col",
+				"columnNames"
+			],
+			[
+				"Joi",
+				"JoinIterator"
+			],
+			[
+				"second",
+				"secondIterator"
+			],
+			[
+				"C",
+				"ConditionalTableIterator"
+			],
+			[
+				"Con",
+				"ConditionalTableIterator	(ConditionalTableIterator.java)"
+			],
+			[
+				"Constr",
+				"ConstraintType	(Constraint.java)"
+			],
+			[
+				"cons",
+				"constraints	(ConditionalTableIterator.java)"
+			],
+			[
+				"pr",
+				"private"
+			],
+			[
+				"mai",
+				"mainIterator"
+			],
+			[
+				"sec",
+				"secondIterator"
+			],
+			[
+				"a",
+				"audb"
+			],
+			[
+				"os",
+				"os_uninit3"
+			],
+			[
+				"emp",
+				"empty_class"
+			],
+			[
+				"em",
+				"empty_class"
+			],
+			[
+				"curre",
+				"currentElement"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"S",
+				"System"
+			],
+			[
+				"Do",
+				"DoubleType	(DoubleType.java)"
+			],
+			[
+				"o",
+				"out	(Main.java)"
+			],
+			[
+				"intt",
+				"inttab"
+			],
+			[
+				"is",
+				"instanceof	(Main.java)"
+			],
+			[
+				"k",
+				"keySet	(Main.java)"
+			],
+			[
+				"Stat",
+				"StateT"
+			],
+			[
+				"type",
+				"typeid"
+			],
+			[
+				"typ",
+				"typeinfo"
+			],
+			[
+				"p",
+				"philosopher"
+			],
+			[
+				"De",
+				"DeleteCommand	(DeleteCommand.java)"
+			],
+			[
+				"Dele",
+				"DeletedElement"
+			],
+			[
+				"getP",
+				"getPageNumber	(TableLine.java)"
+			],
+			[
+				"Obj",
+				"Object"
+			],
+			[
+				"new",
+				"newValues"
+			],
+			[
+				"name",
+				"names"
+			],
+			[
+				"con",
+				"containsKey	(TableManager.java)"
+			],
+			[
+				"getTa",
+				"getTableName	(TableLine.java)"
+			],
+			[
+				"tab",
+				"tableName"
+			],
+			[
+				"off",
+				"offset"
+			],
+			[
+				"Table",
+				"TableLine"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"page",
+				"pageNumber"
+			],
+			[
+				"getPag",
+				"getPageNumber	(Main.java)"
+			],
+			[
+				"t",
+				"tableName	(UpdateCommand.java)"
+			],
+			[
+				"pageN",
+				"pageNumber	(Table.java)"
+			],
+			[
+				"_",
+				"_begin"
+			],
+			[
+				"si",
+				"size_type"
+			],
+			[
+				"beg",
+				"begin"
+			],
+			[
+				"au",
+				"au_list"
+			],
+			[
+				"va",
+				"value_type"
+			],
+			[
+				"ta",
+				"tableName"
+			],
+			[
+				"has",
+				"hashMap"
+			],
+			[
+				"file",
+				"fileEntry"
+			],
+			[
+				"coun",
+				"countOfPages"
+			],
+			[
+				"getPa",
+				"getPageNumber	(Page.java)"
+			],
+			[
+				"de",
+				"decorate_all"
+			],
+			[
+				"w",
+				"wraps"
+			],
+			[
+				"__",
+				"__dict__"
+			],
+			[
+				"I",
+				"InvalidClassStorageException"
+			],
+			[
+				"final",
+				"final_funcs"
+			],
+			[
+				"us",
+				"uses_metaclass"
+			],
+			[
+				"gue",
+				"guessNumber"
+			],
+			[
+				"pu",
+				"putStrLn	(Main.hs)"
+			],
+			[
+				"rea",
+				"readFiles"
+			],
+			[
+				"putStr",
+				"putStrLn"
+			],
+			[
+				"ca",
+				"catch"
+			],
+			[
+				"sy",
+				"System"
+			],
+			[
+				"Pa",
+				"PageTest"
+			],
+			[
+				"std",
+				"std::string"
+			],
+			[
+				"str",
+				"string	(test.cpp)"
+			],
+			[
+				"an",
+				"any"
+			],
+			[
+				"val",
+				"value	(any.h)"
+			],
+			[
+				"any",
+				"any_cast"
+			],
+			[
+				"vi",
+				"visited1"
+			],
+			[
+				"co",
+				"continue"
+			],
+			[
+				"curr",
+				"curr_min"
+			],
+			[
+				"wa",
+				"ways"
+			],
+			[
+				"push",
+				"push_back"
+			],
+			[
+				"min",
+				"min_edge"
+			],
+			[
+				"is_",
+				"is_not_valid"
+			],
+			[
+				"ed",
+				"edges"
+			],
+			[
+				"l",
+				"lft"
+			],
+			[
+				"un",
+				"unordered_set"
+			],
+			[
+				"ma",
+				"map	std::map"
+			],
+			[
+				"top",
+				"top_sort"
+			],
+			[
+				"q",
+				"queue	(d.cpp)"
+			],
+			[
+				"max",
+				"maximum"
+			],
+			[
+				"nx",
+				"nxt_y"
+			],
+			[
+				"srt",
+				"srt_y"
+			],
+			[
+				"one",
+				"one_y"
+			],
+			[
+				"z",
+				"zero_y"
+			],
+			[
+				"zero",
+				"zero_x"
+			],
+			[
+				"vecto",
+				"vector	std::vector"
+			],
+			[
+				"sr",
+				"srt_y"
+			],
+			[
+				"end",
+				"end_y"
+			],
+			[
+				"en",
+				"end_y"
+			],
+			[
+				"n",
+				"nxt_y"
+			],
+			[
+				"nxt",
+				"nxt_y"
+			],
+			[
+				"x",
+				"nxt_x"
+			],
+			[
+				"d",
+				"dist"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "appmain/static/app.js",
+			"settings":
+			{
+				"buffer_size": 1883,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "search/urls.py",
+			"settings":
+			{
+				"buffer_size": 261,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "search/views.py",
+			"settings":
+			{
+				"buffer_size": 3044,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 272.0,
+		"last_filter": "side",
+		"selected_items":
+		[
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sside bar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"projec",
+				"Project: Add Folder"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/roman/ws/projects/cib/server",
+		"/home/roman/ws/projects/cib/server/appmain",
+		"/home/roman/ws/projects/cib/server/appmain/static",
+		"/home/roman/ws/projects/cib/server/mysite",
+		"/home/roman/ws/projects/cib/server/search"
+	],
+	"file_history":
+	[
+		"/home/roman/ws/projects/cib/server/book_search.sublime-project",
+		"/home/roman/ws/projects/cib/server/appmain/static/app.css",
+		"/home/roman/ws/projects/cib/server/appmain/templates/index.html",
+		"/home/roman/ws/projects/cib/server/mysite/urls.py",
+		"/home/roman/ws/projects/cib/server/appmain/views.py",
+		"/home/roman/ws/projects/cib/server/mysite/settings.py",
+		"/home/roman/ws/projects/cib/server/appmain/urls.py",
+		"/home/roman/ws/projects/cib/playground/autocomplete/index.html",
+		"/home/roman/ws/projects/cib/server/city/views.py",
+		"/home/roman/ws/projects/cib/server/city/urls.py",
+		"/home/roman/ws/projects/cib/playground/autocomplete/index1.html",
+		"/home/roman/ws/projects/cib/server/index/views.py",
+		"/home/roman/ws/projects/cib/server/index/templates/index.html",
+		"/home/roman/ws/projects/cib/server/index/apps.py",
+		"/home/roman/ws/projects/cib/playground/autocomplete/app.js",
+		"/home/roman/ws/projects/cib/mysite/main/urls.py",
+		"/home/roman/ws/projects/cib/mysite/main/views.py",
+		"/home/roman/ws/projects/cib/mysite/mysite/urls.py",
+		"/home/roman/ws/projects/cib/playground/mysite/mysite/urls.py",
+		"/home/roman/ws/projects/cib/playground/mysite/mysite/settings.py",
+		"/home/roman/ws/projects/cib/playground/mysite/polls/views.py",
+		"/home/roman/ws/projects/cib/playground/mysite/manage.py",
+		"/home/roman/ws/projects/cib/playground/mysite/polls/urls.py",
+		"/home/roman/ws/projects/cities/playground/autocomplete/app.js",
+		"/home/roman/ws/projects/cities/playground/autocomplete/index1.html",
+		"/home/roman/ws/projects/cities/playground/autocomplete/index.html",
+		"/home/roman/.bashrc",
+		"/home/roman/ws/projects/cib/app/app/settings.py",
+		"/home/roman/ws/projects/cib/app/simple/apps.py",
+		"/home/roman/ws/projects/cib/app/simple/__init__.py",
+		"/home/roman/ws/projects/cib/app/simple/models.py",
+		"/home/roman/ws/projects/cib/app/simple/tests.py",
+		"/home/roman/ws/projects/cib/app/simple/views.py",
+		"/home/roman/ws/au/c++2/hw01/linked_ptr.h",
+		"/home/roman/ws/au/c++2/hw01/main.cpp",
+		"/home/roman/ws/au/algorithm/txt2/hw01.tex",
+		"/home/roman/ws/au/c++2/linked_ptr.h",
+		"/home/roman/ws/projects/cities/playground/autocomplete/script.js",
+		"/home/roman/ws/projects/cities/playground/autocomplete/todo.js",
+		"/home/roman/ws/projects/cities/playground/autocomplete/autocomplete.js",
+		"/home/roman/ws/projects/cities/playground/autocomplete/autocompete.js",
+		"/home/roman/documents/dreams/new/20160214.md",
+		"/home/roman/documents/dreams/new/main.md",
+		"/home/roman/documents/dreams/new/preprocessor.py",
+		"/etc/apt/sources.list",
+		"/home/roman/download/Shirobako (BDRip)/Shirobako - 01 (BD 1280x720 x264 AACx2).ass",
+		"/home/roman/ws/au/os/hw02/start.s",
+		"/home/roman/ws/au/os/hw02/Makefile",
+		"/home/roman/documents/13/характер.txt",
+		"/home/roman/documents/13/13.md",
+		"/home/roman/ws/tmp/asm_luba/fib.s",
+		"/home/roman/ws/au/os/hw03/interrupt.c",
+		"/home/roman/download/build.log",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Full_Metal_Panic_24_2002_Rus/full_metal_panic_1_24_[witwood]/Full Metal Panic 01.ass",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Sub Witwood [TASIW]/Full_Metal_Panic!_01.ass",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/full metal panic 24 rus.ssa",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Full_Metal_Panic_24_2002_Rus/full_metal_panic_1_24_v2/Full Metal Panic - 01.ssa",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Full_Metal_Panic_24_2002_Rus/full_metal_panic_1_24_[veacheslav420&schtirlitz]/full metal panic 01 rus.srt",
+		"/home/roman/download/abobe/readme.txt",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Sub Witwood [TASIW]/Full_Metal_Panic!_24.ass",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Sub Witwood [TASIW]/Full_Metal_Panic!_23.ass",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Sub Witwood [TASIW]/Full_Metal_Panic!_22.ass",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Sub Witwood [TASIW]/Full_Metal_Panic!_21.ass",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Sub Witwood [TASIW]/Full_Metal_Panic!_20.ass",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Sub Witwood [TASIW]/Full_Metal_Panic!_19.ass",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Sub Witwood [TASIW]/Full_Metal_Panic!_18.ass",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Sub Witwood [TASIW]/Full_Metal_Panic!_17.ass",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Sub Witwood [TASIW]/Full_Metal_Panic!_16.ass",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Sub Witwood [TASIW]/Full_Metal_Panic!_15.ass",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Sub Witwood [TASIW]/Full_Metal_Panic!_14.ass",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Sub Witwood [TASIW]/Full_Metal_Panic!_13.ass",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Sub Witwood [TASIW]/Full_Metal_Panic!_12.ass",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Sub Witwood [TASIW]/Full_Metal_Panic!_11.ass",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Sub Witwood [TASIW]/Full_Metal_Panic!_10.ass",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Sub Witwood [TASIW]/Full_Metal_Panic!_09.ass",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Sub Witwood [TASIW]/Full_Metal_Panic!_08.ass",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Sub Witwood [TASIW]/Full_Metal_Panic!_07.ass",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Sub Witwood [TASIW]/Full_Metal_Panic!_06.ass",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Sub Witwood [TASIW]/Full_Metal_Panic!_05.ass",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Sub Witwood [TASIW]/Full_Metal_Panic!_04.ass",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Sub Witwood [TASIW]/Full_Metal_Panic!_03.ass",
+		"/home/roman/download/Full Metal Panic! TV1 BD 720p/Sub Witwood [TASIW]/Full_Metal_Panic!_02.ass",
+		"/home/roman/ws/au/db/src/test/java/audb/AppTest.java",
+		"/home/roman/ws/au/db/src/main/java/audb/page/PageCache.java",
+		"/home/roman/ws/au/db/src/main/java/audb/Main.java",
+		"/home/roman/ws/au/db/src/main/java/audb/table/TableLine.java",
+		"/home/roman/ws/au/db/src/main/java/audb/page/PageManager.java",
+		"/home/roman/ws/au/db/src/main/java/audb/table/TableElement.java",
+		"/home/roman/ws/au/db/src/test/java/audb/BTreeTest.java",
+		"/home/roman/ws/au/db/src/main/java/audb/type/VarcharType.java",
+		"/home/roman/ws/au/db/src/test/java/audb/LoadTest.java",
+		"/home/roman/ws/au/db/src/main/java/audb/parser/Parser.java",
+		"/home/roman/ws/au/db/src/main/java/audb/result/JoinIterator.java",
+		"/home/roman/ws/au/db/src/main/java/audb/command/UpdateCommand.java",
+		"/home/roman/ws/au/db/src/main/java/audb/table/TableManager.java",
+		"/home/roman/ws/au/db/src/main/java/audb/page/Page.java",
+		"/home/roman/ws/au/db/src/main/java/audb/page/PageStructure.java",
+		"/home/roman/ws/au/db/src/main/java/audb/table/Table.java",
+		"/home/roman/ws/au/db/src/main/java/audb/index/BTreeIndex.java",
+		"/home/roman/ws/au/db/src/main/java/audb/table/VarcharElement.java",
+		"/home/roman/ws/au/db/src/main/java/audb/table/IntegerElement.java",
+		"/home/roman/ws/au/db/src/main/java/audb/table/DoubleElement.java",
+		"/home/roman/ws/au/db/src/test/java/audb/PageTest.java",
+		"/home/roman/ws/au/db/src/main/java/audb/type/IntegerType.java",
+		"/home/roman/ws/au/db/src/main/java/audb/index/btree/BTree.java",
+		"/home/roman/ws/au/db/src/main/java/audb/page/PageWriter.java",
+		"/home/roman/ws/au/db/src/main/java/audb/command/JoinCommand.java",
+		"/home/roman/ws/au/db/src/main/java/audb/parser/Shower.java",
+		"/home/roman/ws/au/db/src/main/java/audb/result/ConditionalTableIterator.java",
+		"/home/roman/ws/au/db/src/main/java/audb/index/btree/NodeReader.java",
+		"/home/roman/ws/au/db/src/main/java/audb/command/DeleteCommand.java",
+		"/home/roman/ws/au/db/src/main/java/audb/command/CreateTableCommand.java",
+		"/home/roman/ws/au/db/src/main/java/audb/command/Command.java",
+		"/home/roman/ws/au/db/src/main/java/audb/index/Index.java",
+		"/home/roman/ws/au/db/src/main/java/audb/result/FullScanIterator.java",
+		"/home/roman/ws/au/db/src/main/java/audb/result/IndexedConditionalTableIterator.java",
+		"/home/roman/ws/au/db/src/main/java/audb/result/TableIterator.java",
+		"/home/roman/ws/au/db/src/main/java/audb/result/Result.java",
+		"/home/roman/ws/au/db/src/main/java/audb/util/Pair.java",
+		"/home/roman/ws/au/db/src/main/java/audb/command/Constraint.java",
+		"/home/roman/ws/au/db/src/main/java/audb/util/Third.java",
+		"/home/roman/ws/au/c++/rep/vasilev.roman/control_4/src/test.cpp",
+		"/home/roman/ws/au/c++/rep/vasilev.roman/control_4/src/maybe.h",
+		"/home/roman/ws/au/db/src/main/java/audb/result/JoinResult.java",
+		"/home/roman/ws/au/algorithm/txt/hw13.tex",
+		"/home/roman/ws/au/algorithm/txt/hw12.aux",
+		"/home/roman/ws/au/c++/hw03/any.cpp",
+		"/home/roman/ws/au/c++/hw03/any.h"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h1",
+			"Book",
+			"h3",
+			"HttpController",
+			"DemoCtrl",
+			"name",
+			"com",
+			"find_city",
+			"DemoCtrl",
+			"htt",
+			"poll",
+			"tmp",
+			"->",
+			"smart_point",
+			"disp",
+			"state",
+			"n = 2",
+			"a",
+			"max",
+			"deferred",
+			"createFilterFor",
+			"selec",
+			"$timeout",
+			"$scope",
+			"$q",
+			"src",
+			"input",
+			"autocompleteDemo",
+			"ngMaterial",
+			"todoText",
+			"TodoCtrl",
+			"file_list",
+			"end",
+			"96",
+			"64",
+			"96",
+			"32",
+			"hello_str",
+			"loop",
+			"pop",
+			"pushl",
+			"push",
+			"pop",
+			"INT",
+			"%d",
+			"Sys",
+			"assert",
+			"isDeleted",
+			"Iterator<HashMap<String, TableElement>>",
+			"it1",
+			"Iterator<HashMap<String, TableElement>> ",
+			"Iterator<HashMap<String, TableElement>>",
+			"orders",
+			"names",
+			"addB",
+			"number",
+			"names",
+			"index",
+			"inde",
+			"List<String, Constraint>",
+			"arr",
+			"arr[]",
+			"[]",
+			"Object ",
+			"String ",
+			"values",
+			"names",
+			"FullScanIterator",
+			"$.\n",
+			"anystr",
+			"a4",
+			"a3",
+			"a2",
+			"a3",
+			"Context",
+			"string",
+			"V",
+			"delete",
+			"e",
+			"data",
+			"next",
+			"au_list",
+			"InsertCommand",
+			"curr",
+			"table1",
+			"str",
+			"names",
+			"pageCache",
+			"Syste",
+			"\")\n",
+			"file",
+			">>>",
+			"Цели",
+			"bpsi",
+			"pc",
+			"PointCloud&",
+			".__name__",
+			"base",
+			"__final_funcs",
+			"final_funcs",
+			"nms",
+			"nmspc",
+			"SimpleMeta1",
+			"BTRee",
+			"testHundreadNumbers",
+			"hashMap",
+			"pin",
+			"getPage",
+			"getPAge",
+			"const ",
+			"42",
+			"const ",
+			"}\n",
+			"new",
+			"other",
+			"T",
+			"value",
+			";",
+			"bways",
+			"is_valid",
+			" \n",
+			"3000",
+			"E[1][1]",
+			"j",
+			"i",
+			"j",
+			"i",
+			"3"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "appmain/static/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1883,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								232,
+								232
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "search/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								104,
+								104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "search/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3044,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								492,
+								492
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "book_search.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"res",
+				"src/main/java/audb/result/Result.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
